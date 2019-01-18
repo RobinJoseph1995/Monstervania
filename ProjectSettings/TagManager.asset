@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - mountain
+  - sky
+  - rock
+  - fireball
+  - ghost
+  - rockSpawn
+  - rockThrow
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - SpecialEnemy
+  - Enemy
+  - Player
+  - 
+  - 
+  - 
+  - Bush
+  - HealthFood
+  - EnergizerFood
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Ground
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1091683623
+    locked: 0
+  - name: rock
+    uniqueID: 3520706321
+    locked: 0
+  - name: Map
+    uniqueID: 1432571907
+    locked: 0
+  - name: UI
+    uniqueID: 782081523
+    locked: 0
